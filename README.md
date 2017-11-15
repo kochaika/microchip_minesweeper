@@ -1,1 +1,3 @@
-# microchip_minesweeper
+# Minesweeper
+
+MCU: pic18f4520
